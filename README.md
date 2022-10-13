@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub repo](https://github.com/Zilvis0/Responsive-cards)
-- Live Site URL: [Github server](https://github.com/Zilvis0/Zilvis0.github.io)
+- Live Site URL: [Github server](https://zilvis0.github.io)
 
 ## My process
 
