@@ -43,7 +43,7 @@ Users should be able to:
 ## Author
 
 - Website - [Zilvinas Pusnys](https://pusnys.com)
-- Website - [Github](https://github.com/Zilvis0)
-- Website - [LinekdIn](https://www.linkedin.com/in/zilvinas-pusnys/)
-- Frontend Mentor - [@zilvis0](https://www.frontendmentor.io/profile/zilvis0)
+- Github - [Zilvis0](https://github.com/Zilvis0)
+- LinkedIn - [Zilvis0](https://www.linkedin.com/in/zilvinas-pusnys/)
+- Frontend Mentor - [@Zilvis0](https://www.frontendmentor.io/profile/zilvis0)
 
