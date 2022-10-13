@@ -1,6 +1,13 @@
 body {
     font-size: 15px;
+    font-family: 'Lexend Deca', sans-serif
+    ;
 }
+
+main{
+    margin: 20px;
+}
+
 
 .car-wrapper{
     display: flex;
@@ -8,13 +15,24 @@ body {
     justify-content: center;
     align-items: flex-start;
     color: hsl(0, 0%, 95%);
+    padding: 40px;
+    height: 400px;
+}
+
+.car-category{
+    text-transform: uppercase;
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: 40px;
 }
 
 .btn{
     border-radius: 30px;
     height: 50px;
-    width: 100px;
+    width: 40vw;
     background-color: hsl(0, 0%, 95%);
+    text-transform: capitalize;
+    border: none;
+    margin-top: 20px;
 }
 .sedan .btn{
     color:hsl(31, 77%, 52%)
@@ -28,14 +46,17 @@ body {
 
 p{
     color: hsla(0, 0%, 100%, 0.75);
+    line-height: 24px;
 }
 
 .sedan{
     background-color: hsl(31, 77%, 52%);
+    border-radius: 15px 15px 0 0;
 }
 .suv{
     background-color: hsl(184, 100%, 22%);
 }
 .luxury{
     background-color: hsl(179, 100%, 13%);
+    border-radius: 0 0 15px 15px ;
 }
